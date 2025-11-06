@@ -47,7 +47,7 @@ Librerías necesarias:
 COMO USAR
 
 Clona el repositorio:
-Shellgit clone https://github.com/TU-USUARIO/ClasificadorColoresESP32.gitMostrar más líneas
+https://github.com/TU-USUARIO/ClasificadorColoresESP32.git
 
 Abre el código en Arduino IDE.
 Selecciona la placa ESP32-WROOM-32D.
