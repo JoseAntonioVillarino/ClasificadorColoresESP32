@@ -18,14 +18,17 @@ El repositorio contiene tres códigos principales:
 
 
 1 -> Código base del motor
+Control del motor paso a paso con el driver DRV8825.
+
+2 -> Código base del motor con final de carrera
 Control del motor paso a paso con el driver DRV8825 y calibración mediante ENDSTOP.
 
 
-2-> Código base del sensor TCS34725
+3 -> Código base del sensor TCS34725
 Lectura de valores RGB y detección del color predominante.
 
 
-3-> Código final del proyecto
+4 -> Código final del proyecto
 Integración completa: detección de color + movimiento del motor + señalización LED.
 
 
